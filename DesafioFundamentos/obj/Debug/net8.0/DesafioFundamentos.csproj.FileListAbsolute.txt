@@ -1,0 +1,15 @@
+D:\1\dotnet\sistema-estacionamento\DesafioFundamentos\bin\Debug\net8.0\DesafioFundamentos.exe
+D:\1\dotnet\sistema-estacionamento\DesafioFundamentos\bin\Debug\net8.0\DesafioFundamentos.deps.json
+D:\1\dotnet\sistema-estacionamento\DesafioFundamentos\bin\Debug\net8.0\DesafioFundamentos.runtimeconfig.json
+D:\1\dotnet\sistema-estacionamento\DesafioFundamentos\bin\Debug\net8.0\DesafioFundamentos.dll
+D:\1\dotnet\sistema-estacionamento\DesafioFundamentos\bin\Debug\net8.0\DesafioFundamentos.pdb
+D:\1\dotnet\sistema-estacionamento\DesafioFundamentos\obj\Debug\net8.0\DesafioFundamentos.GeneratedMSBuildEditorConfig.editorconfig
+D:\1\dotnet\sistema-estacionamento\DesafioFundamentos\obj\Debug\net8.0\DesafioFundamentos.AssemblyInfoInputs.cache
+D:\1\dotnet\sistema-estacionamento\DesafioFundamentos\obj\Debug\net8.0\DesafioFundamentos.AssemblyInfo.cs
+D:\1\dotnet\sistema-estacionamento\DesafioFundamentos\obj\Debug\net8.0\DesafioFundamentos.csproj.CoreCompileInputs.cache
+D:\1\dotnet\sistema-estacionamento\DesafioFundamentos\obj\Debug\net8.0\DesafioFundamentos.sourcelink.json
+D:\1\dotnet\sistema-estacionamento\DesafioFundamentos\obj\Debug\net8.0\DesafioFundamentos.dll
+D:\1\dotnet\sistema-estacionamento\DesafioFundamentos\obj\Debug\net8.0\refint\DesafioFundamentos.dll
+D:\1\dotnet\sistema-estacionamento\DesafioFundamentos\obj\Debug\net8.0\DesafioFundamentos.pdb
+D:\1\dotnet\sistema-estacionamento\DesafioFundamentos\obj\Debug\net8.0\DesafioFundamentos.genruntimeconfig.cache
+D:\1\dotnet\sistema-estacionamento\DesafioFundamentos\obj\Debug\net8.0\ref\DesafioFundamentos.dll
